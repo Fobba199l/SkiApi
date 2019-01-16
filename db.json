@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "name": "Gesamtweltcup",
+        "gender": "Herren"
+    }
+    {
+        "id": 1,
+        "name": "Abfahrt",
+        "gender": "Herren"
+    }
+    {
+        "id": 2,
+        "name": "Super-G",
+        "gender": "Herren"
+    }
+    {
+        "id": 3,
+        "name": "Riesentorlauf",
+        "gender": "Herren"
+    }
+    {
+        "id": 4,
+        "name": "Slalom",
+        "gender": "Herren"
+    }
+    {
+        "id": 5,
+        "name": "Gesamtweltcup",
+        "gender": "Frauen"
+    }
+    {
+        "id": 6,
+        "name": "Abfahrt",
+        "gender": "Frauen"
+    }
+    {
+        "id": 7,
+        "name": "Super-G",
+        "gender": "Frauen"
+    }
+    {
+        "id": 8,
+        "name": "Riesentorlauf",
+        "gender": "Frauen"
+    }
+    {
+        "id": 9,
+        "name": "Slalom",
+        "gender": "Frauen"
+    }
+]
