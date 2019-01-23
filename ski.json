@@ -86,61 +86,61 @@
         {
             "id": 0,
             "name": "Marcel Hirscher",
-            "natianality": "AUT",
+            "nationality": "AUT",
             "age": 29
         },
         {
             "id": 1,
             "name": "Henrik Kristoffersen",
-            "natianality": "NOR",
+            "nationality": "NOR",
             "age": 24
         },
         {
             "id": 2,
             "name": "Pinturault",
-            "natianality": "FRA",
+            "nationality": "FRA",
             "age": 27
         },
         {
             "id": 3,
             "name": "Beat Feuz",
-            "natianality": "SUI",
+            "nationality": "SUI",
             "age": 31
         },
         {
             "id": 4,
             "name": "Max Franz",
-            "natianality": "AUT",
+            "nationality": "AUT",
             "age": 29
         },
         {
             "id": 5,
             "name": "Dominik Paris",
-            "natianality": "ITA",
+            "nationality": "ITA",
             "age": 29
         },
         {
             "id": 6,
             "name": "Aksel Lund Svindal",
-            "natianality": "NOR",
+            "nationality": "NOR",
             "age": 36
         },
         {
             "id": 7,
             "name": "Mauro Caviezel",
-            "natianality": "SUI",
+            "nationality": "SUI",
             "age": 30
         },
         {
             "id": 8,
             "name": "Matthias Mayer",
-            "natianality": "AUT",
+            "nationality": "AUT",
             "age": 28
         },
         {
             "id": 9,
             "name": "Daniel Yule",
-            "natianality": "SUI",
+            "nationality": "SUI",
             "age": 25
         }
     ]
