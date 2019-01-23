@@ -1,0 +1,147 @@
+{    
+    "worldcups": [    
+        {
+            "id": 0,
+            "name": "Gesamtweltcup",
+            "gender": "Herren",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Abfahrt",
+            "gender": "Herren",
+            "winner": [
+                3, 4, 5
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Super-G",
+            "gender": "Herren",
+            "winner": [
+                6, 7, 8
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Riesentorlauf",
+            "gender": "Herren",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Slalom",
+            "gender": "Herren",
+            "winner": [
+                0, 9, 1
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Gesamtweltcup",
+            "gender": "Frauen",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Abfahrt",
+            "gender": "Frauen",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Super-G",
+            "gender": "Frauen",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Riesentorlauf",
+            "gender": "Frauen",
+            "winner": [
+                0, 1, 2
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Slalom",
+            "gender": "Frauen",
+            "winner": [
+                0, 1, 2
+            ]
+        }
+    ],
+
+    "racers": [
+        {
+            "id": 0,
+            "name": "Marcel Hirscher",
+            "natianality": "AUT",
+            "age": 29
+        },
+        {
+            "id": 1,
+            "name": "Henrik Kristoffersen",
+            "natianality": "NOR",
+            "age": 24
+        },
+        {
+            "id": 2,
+            "name": "Pinturault",
+            "natianality": "FRA",
+            "age": 27
+        },
+        {
+            "id": 3,
+            "name": "Beat Feuz",
+            "natianality": "SUI",
+            "age": 31
+        },
+        {
+            "id": 4,
+            "name": "Max Franz",
+            "natianality": "AUT",
+            "age": 29
+        },
+        {
+            "id": 5,
+            "name": "Dominik Paris",
+            "natianality": "ITA",
+            "age": 29
+        },
+        {
+            "id": 6,
+            "name": "Aksel Lund Svindal",
+            "natianality": "NOR",
+            "age": 36
+        },
+        {
+            "id": 7,
+            "name": "Mauro Caviezel",
+            "natianality": "SUI",
+            "age": 30
+        },
+        {
+            "id": 8,
+            "name": "Matthias Mayer",
+            "natianality": "AUT",
+            "age": 28
+        },
+        {
+            "id": 9,
+            "name": "Daniel Yule",
+            "natianality": "SUI",
+            "age": 25
+        }
+    ]
+}

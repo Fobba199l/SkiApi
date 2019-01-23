@@ -1,27 +1,9 @@
-[    
-    {
-        "id": 0,
-        "name": "Gesamtweltcup",
-        "gender": "Herren"
-    },
-    {
-        "id": 1,
-        "name": "Abfahrt",
-        "gender": "Herren"
-    },
-    {
-        "id": 2,
-        "name": "Super-G",
-        "gender": "Herren"
-    },
-    {
-        "id": 3,
-        "name": "Riesentorlauf",
-        "gender": "Herren"
-    },
-    {
-        "id": 4,
-        "name": "Slalom",
-        "gender": "Herren"
-    }
-]
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}
