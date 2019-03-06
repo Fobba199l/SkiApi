@@ -39,46 +39,6 @@
             "winner": [
                 0, 9, 1
             ]
-        },
-        {
-            "id": 5,
-            "name": "Gesamtweltcup",
-            "gender": "Frauen",
-            "winner": [
-                0, 1, 2
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Abfahrt",
-            "gender": "Frauen",
-            "winner": [
-                0, 1, 2
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Super-G",
-            "gender": "Frauen",
-            "winner": [
-                0, 1, 2
-            ]
-        },
-        {
-            "id": 8,
-            "name": "Riesentorlauf",
-            "gender": "Frauen",
-            "winner": [
-                0, 1, 2
-            ]
-        },
-        {
-            "id": 9,
-            "name": "Slalom",
-            "gender": "Frauen",
-            "winner": [
-                0, 1, 2
-            ]
         }
     ],
 
@@ -87,61 +47,71 @@
             "id": 0,
             "name": "Marcel Hirscher",
             "nationality": "AUT",
-            "age": 29
+            "age": 29,
+            "picture": "https://www.heute.at/2010/img/quiz/picquiz/111.jpg"
         },
         {
             "id": 1,
             "name": "Henrik Kristoffersen",
             "nationality": "NOR",
-            "age": 24
+            "age": 24,
+            "picture": "https://media.kleinezeitung.at/images/uploads_520/7/8/4/5158788/4CE8C4BE-FC9D-4D6D-BAE2-59A2E75AB247_v0_h.jpg"
         },
         {
             "id": 2,
             "name": "Pinturault",
             "nationality": "FRA",
-            "age": 27
+            "age": 27,
+            "picture": "https://image.redbull.com/rbcom/010/2014-10-22/1331686122922_2/0010/1/1600/533/1/alexis-pinturault.jpg"
         },
         {
             "id": 3,
             "name": "Beat Feuz",
             "nationality": "SUI",
-            "age": 31
+            "age": 31,
+            "picture": "https://www.revue.ch/fileadmin/_processed_/f/3/csm_37663_0b8b268627.jpg"
         },
         {
             "id": 4,
             "name": "Max Franz",
             "nationality": "AUT",
-            "age": 29
+            "age": 29,
+            "picture": "https://info-channel.raiffeisen-ooe.at/website/var/tmp/image-thumbnails/0/1002/thumb__wysiwygThumbnail/gepa_full_8977_gepa-10101599282.jpeg"
         },
         {
             "id": 5,
             "name": "Dominik Paris",
             "nationality": "ITA",
-            "age": 29
+            "age": 29,
+            "picture": "https://production-livingdocs-bluewin-ch.imgix.net/2018/12/28/58dd545c-9485-4e7f-bb7b-039b1ce5515c.jpeg?w=1024&auto=format"
         },
         {
             "id": 6,
             "name": "Aksel Lund Svindal",
             "nationality": "NOR",
-            "age": 36
+            "age": 36,
+            "picture": "https://image.redbull.com/rbcom/010/2015-06-24/1331731349232_2/0012/0/0/1049/5196/4166/600/1/alpin-weltmeister-aksel-lund-svinda-2015.jpg"
         },
         {
             "id": 7,
             "name": "Mauro Caviezel",
             "nationality": "SUI",
-            "age": 30
+            "age": 30,
+            "picture": "https://skiweltcup.tv/wp-content/themes/tvsportnews/images/09-caviezel-mauro005-schmid-walter.jpg"
         },
         {
             "id": 8,
             "name": "Matthias Mayer",
             "nationality": "AUT",
-            "age": 28
+            "age": 28,
+            "picture": "https://skiweltcup.tv/wp-content/themes/tvsportnews/images/09-mayer-matthias043.jpg"
         },
         {
             "id": 9,
             "name": "Daniel Yule",
             "nationality": "SUI",
-            "age": 25
+            "age": 25,
+            "picture": "https://skiweltcup.tv/wp-content/themes/tvsportnews/images/09-mayer-matthias043.jpg"
         }
     ]
 }
